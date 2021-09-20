@@ -1,0 +1,81 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.bg {
+    /* The image used */
+    background-image:  url('assets/images/back3.svg');
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index:-1;
+}
+
+.fontCamila {
+    max-width: 100%;
+    /* transform: scale(1.5); */
+    width: 100%; height: auto;
+    /*height: auto;*/
+}
+
+.titleCami {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    padding-top: 2em;
+    margin-bottom: 2em;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 200%;
+    font-weight: bolder;
+    color: white;
+    visibility: hidden;
+}
+
+.basicInfo {
+    display: inline-block;
+}
+
+.imageCami {
+    text-align: center;
+    align-content: center;
+}
+
+.imgCami {
+    border-radius: 50%;
+    width: 400px;
+    max-width: 100%;
+}
+.descriptionCami {
+    align-content: right;
+    text-align: center;
+    vertical-align: 2em;
+}
+
+.socialMedia {
+    border-radius: 10%;
+    border:1px solid #D499B9;
+    background-color: #D499B9;
+}
+
+.icoSocial {
+    margin-left: 1.2em;
+    margin-right: 1.2em;
+}
+
+.socialLink {
+    text-decoration: none;
+    color: #9055A2;
+}
