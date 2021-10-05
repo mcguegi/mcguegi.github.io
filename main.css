@@ -48,6 +48,10 @@ h1 {
     display: inline-block;
 }
 
+.sectionsLinks {
+    display: inline-block;
+}
+
 .imageCami {
     text-align: center;
     align-content: center;
@@ -78,4 +82,17 @@ h1 {
 .socialLink {
     text-decoration: none;
     color: #9055A2;
+}
+
+
+.imgBit {
+    width: 150px;
+    max-width: 100%;
+    display:block;
+    margin:auto;
+}
+
+.bitmojiDiv {
+    text-align: center;
+    align-content: center;
 }
