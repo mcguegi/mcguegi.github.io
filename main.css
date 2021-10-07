@@ -96,3 +96,23 @@ h1 {
     text-align: center;
     align-content: center;
 }
+
+.titleLeftSections {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    padding-top: 2em;
+    margin-bottom: 2em;
+}
+
+.list-group-item {
+
+background-color: transparent;}
+
+.fontSections {
+    max-width: 50%;
+    /* transform: scale(1.5); */
+    width: 100%; height: auto;
+    /*height: auto;*/
+}
