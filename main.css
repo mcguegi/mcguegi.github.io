@@ -2,13 +2,15 @@ html, body {
     height: 100%;
     margin: 0;
     font-family: 'Roboto', sans-serif;
+    background-color: #eaf4f4;
 }
 
 
 
 .bg {
     /* The image used */
-    background-image:  url('assets/images/back3.svg');
+    /* background-image:  url('assets/images/back3.svg'); */
+    background-color: #eaf4f4;
   
     /* Full height */
     height: 100%; 
