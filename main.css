@@ -2,7 +2,7 @@ html, body {
     height: 100%;
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: #eaf4f4;
+    background-color: #ffffff;
 }
 
 
@@ -10,7 +10,7 @@ html, body {
 .bg {
     /* The image used */
     /* background-image:  url('assets/images/back3.svg'); */
-    background-color: #eaf4f4;
+    background-color: #ffffff;
   
     /* Full height */
     height: 100%; 
